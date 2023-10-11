@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.project h1{
+    border: solid 1px white;
+    color: white;
+    height: 50px;
+    width: 180px;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+}
+.container{
+    background-image: url(./images/pro1.jpg);
+    border: solid 0px black;
+    height: 720px;
+    width: 100%; 
+}
+.box{
+    border: solid 1px white;
+    height: 250px;
+    width: 400px;
+    margin-top: 30px;
+}
+.box2{
+    border: solid 1px white;
+    height: 250px;
+    width: 400px;
+    margin-top: 30px;
+}
+.box1{
+    border: solid 1px white;
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box img{
+    width: 100%;
+}
+.mains{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box2 img{
+    width: 100%;
+}.box4{
+    border: solid 1px white;
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}

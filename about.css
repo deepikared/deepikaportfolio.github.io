@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+ border: solid 0px black;
+ height: 720px;
+ width: 100%;
+}
+.container h1{
+    text-align: center;
+    color: green;
+    margin-top: 50px;
+}
+.circle{
+    border: solid 1px black;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px; 
+    margin: auto;
+    background-image: url(./images/deep.png);
+    background-size: cover;
+    margin-top: 30px;
+}
+.hii{
+    border: solid 0px black;
+    height: 100px;
+    width: 70%;
+    margin-left: 180px;
+    margin-top: 30px;
+    font-size: larger;
+    padding-left: 10px ;
+    padding-top: 10px;
+}

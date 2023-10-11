@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    overflow-x: none;
+}
+.header{
+    border: solid 0px white;
+    width: 20%;
+    height: 682px;
+    background-color: black;
+}
+.circle{
+    border: solid 0px white;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    margin: auto; 
+    background-color: white;
+    background-image: url(./images/deep.png);
+    background-size: cover;
+    margin-top: 10px;
+}
+.header .vem{
+  font-size: 25PX;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 10px;
+  
+}
+.header1{
+    border: solid 0px black;
+    width: 80%;
+    height: 682px;
+    background-image: url(./images/backgroung.jpg);  
+    background-size: cover;   
+}
+
+.container{
+    display: flex;
+}
+.home{
+    color: white;
+    font-size:large;
+    margin-left: 10px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    margin-top: 10px;
+}
+.contents {
+    display: grid;
+    margin-top: 20px;
+}
+.hmm{
+    margin-top: 40px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.hmm a {
+    margin-top: 5px;
+}
+.back{
+    color: white;
+text-align: center;
+font-size: 40px;
+font-weight: bolder;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+width: fit-content;
+margin: 20% ;
+text-shadow: 1px 1px 1px;
+}
+.back front{
+    font-size:50px;
+}
+
+.some{
+    color: white;
+    font-size: x-large;
+    text-shadow: 5px 5px 5px;  
+}
+.project button{
+    border: solid 2px white;
+    height: 40px;
+    width: 170px;
+    background: transparent;
+    color: white;
+    font-size: x-large;
+    border-radius: 10px; 
+}
+.resume button{
+    border: solid 2px white;
+    height: 40px;
+    width: 170px;
+    background: transparent;
+    color: white;
+    font-size: x-large;
+    border-radius: 10px;  
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+/* 
+color: white;
+text-decoration: none;
+font-size: x-large;
+font-weight: lighter; */
+
+
+
+
